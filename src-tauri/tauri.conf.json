@@ -105,7 +105,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "白羽 AI 聊天",
+        "title": "文文 AI 聊天",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"

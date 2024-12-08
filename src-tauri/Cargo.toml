@@ -1,11 +1,11 @@
 [package]
-name = "白羽 AI 聊天"
+name = "文文 AI 聊天"
 version = "0.1.0"
 description = "A cross platform app for LLM ChatBot."
 authors = ["Yidadaa"]
 license = "mit"
 repository = ""
-default-run = "白羽 AI 聊天"
+default-run = "文文 AI 聊天"
 edition = "2021"
 rust-version = "1.60"
 

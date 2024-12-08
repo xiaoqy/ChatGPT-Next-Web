@@ -10,10 +10,10 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "白羽 AI 聊天",
+  title: "文文 AI 聊天",
   description: "你的个人 AI 聊天机器人",
   appleWebApp: {
-    title: "白羽 AI 聊天",
+    title: "文文 AI 聊天",
     statusBarStyle: "default",
   },
 };

@@ -539,9 +539,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>白羽 AI 聊天</div>
+            <div className={styles["main-title"]}>文文 AI 聊天</div>
             <div className={styles["sub-title"]}>
-              aichat.xiaoqy.com
+              aichat.xiaoww.com
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
